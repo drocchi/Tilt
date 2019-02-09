@@ -51,17 +51,15 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scripts\BallRespawn.cs" />
-     <Compile Include="Assets\Scripts\CamAnchorFollow.cs" />
-     <Compile Include="Assets\Scripts\CameraFollow.cs" />
-     <Compile Include="Assets\Scripts\CourseTilt.cs" />
-     <Compile Include="Assets\Scripts\Generic.cs" />
-     <Compile Include="Assets\Scripts\NewBehaviourScript.cs" />
-     <Compile Include="Assets\Scripts\PhoneTilt.cs" />
-     <Compile Include="Assets\Scripts\SettingsMenu.cs" />
-     <Compile Include="Assets\Scripts\touchTilt.cs" />
+     <Compile Include="Assets\Scripts\CameraScripts\CamAnchorFollow.cs" />
+     <Compile Include="Assets\Scripts\CameraScripts\CameraFollow.cs" />
+     <Compile Include="Assets\Scripts\MapConstantScripts\BallRespawn.cs" />
+     <Compile Include="Assets\Scripts\MapConstantScripts\SettingsMenu.cs" />
+     <Compile Include="Assets\Scripts\TiltContolScripts\CourseTilt.cs" />
+     <Compile Include="Assets\Scripts\TiltContolScripts\PhoneTilt.cs" />
+     <Compile Include="Assets\Scripts\TiltContolScripts\touchTilt.cs" />
  <Reference Include="Facebook.Unity.Settings">
- <HintPath>/Users/danielrocchi/Desktop/Experiment TILT/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
+ <HintPath>/Users/danielrocchi/Desktop/Tilt/Experiment TILT/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>

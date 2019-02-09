@@ -2,5 +2,9 @@
     {
         "merged": "/Users/danielrocchi/Desktop/Experiment TILT/Temp/gradleOut/build/intermediates/res/merged/release/drawable-xhdpi/app_banner.png",
         "source": "/Users/danielrocchi/Desktop/Experiment TILT/Temp/gradleOut/src/main/res/drawable-xhdpi/app_banner.png"
+    },
+    {
+        "merged": "/Users/danielrocchi/Desktop/Tilt/Experiment TILT/Temp/gradleOut/build/intermediates/res/merged/release/drawable-xhdpi/app_banner.png",
+        "source": "/Users/danielrocchi/Desktop/Tilt/Experiment TILT/Temp/gradleOut/src/main/res/drawable-xhdpi/app_banner.png"
     }
 ]

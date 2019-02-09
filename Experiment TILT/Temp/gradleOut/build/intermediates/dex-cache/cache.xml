@@ -3,12 +3,12 @@
 
     <item
         is-multidex="false"
-        jar="/Users/danielrocchi/Desktop/Experiment TILT/Temp/gradleOut/libs/unity-classes.jar"
+        jar="/Users/danielrocchi/Desktop/Tilt/Experiment TILT/Temp/gradleOut/libs/unity-classes.jar"
         jumboMode="false"
         optimize="true"
         revision="28.0.3"
         sha1="997bed8c5290bdbae5c8767ba09af501f19e1c08">
-        <dex dex="/Users/danielrocchi/Desktop/Experiment TILT/Temp/gradleOut/build/intermediates/pre-dexed/release/unity-classes_b6e860b7c5c3f56bb315d2e4cdfec9ea52d2ef48.jar" />
+        <dex dex="/Users/danielrocchi/Desktop/Tilt/Experiment TILT/Temp/gradleOut/build/intermediates/pre-dexed/release/unity-classes_c55606b276f8b90909cd52c7671a165d8b8df1b4.jar" />
     </item>
 
 </items>
