@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/danielrocchi/Desktop/Experiment TILT/Temp/gradleOut/libs/unity-classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="997bed8c5290bdbae5c8767ba09af501f19e1c08">
+        <dex dex="/Users/danielrocchi/Desktop/Experiment TILT/Temp/gradleOut/build/intermediates/pre-dexed/release/unity-classes_b6e860b7c5c3f56bb315d2e4cdfec9ea52d2ef48.jar" />
+    </item>
+
+</items>
