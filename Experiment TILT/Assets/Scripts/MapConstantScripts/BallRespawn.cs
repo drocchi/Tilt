@@ -12,7 +12,7 @@ public class BallRespawn : MonoBehaviour {
 	}
 	void Update () {
 		if (transform.position.y < -3){
-			transform.position = new Vector3 (0, 5, 0);
+			transform.position = new Vector3 (0, 5, -1);
 			rb.velocity = Vector3.zero;
 		}
 	}
